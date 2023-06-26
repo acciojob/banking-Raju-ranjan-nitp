@@ -12,5 +12,8 @@
         <module name="banking" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="banking-Raju-ranjan-nitp" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
